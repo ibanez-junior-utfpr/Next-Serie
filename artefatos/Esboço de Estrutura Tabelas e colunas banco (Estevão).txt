@@ -1,0 +1,53 @@
+
+
+		## Tabelas NextSérie ##
+		
+	
+	Usuario
+		
+	Perfil
+		
+	Usuario_Perfil
+		
+	Categorias_Filme
+		
+	Filme
+	
+	
+
+		## Estrutura NextSérie ##
+	
+	- Usuario
+		IdUsuario --pk
+		Email 
+		Senha
+		NomeUsuario
+		Dtnascimento
+		DtAlteracao
+	
+	- Perfil
+		IdUsuario -- fk
+		IdPerfil -- pk
+		NomePerfil
+		Categorias
+		
+	- Usuario_Perfil
+		IdUsuario -- fk
+		IdPerfil --  fk
+		CategoriasEscolhidas
+		FilmesEscolhidos
+		FilmesAssistidos
+		FilmesAvaliados
+		
+	- Categorias_Filme
+		IdCategoria -- pk
+		DescricaoCategoria
+		IdFilme -- fk
+		
+	- Filme
+		IdCategoria --pk
+		IdFilme -- fk
+		DescricaoFilme
+		DetalhamentoFilme --Observações ou Preview
+		VideoFilme --Preview video
+	
