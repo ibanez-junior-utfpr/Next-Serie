@@ -1,6 +1,8 @@
-#Projeto Next Serie
+# Projeto Next Serie
 
-#Squad Bem Loko
+Projeto da Fábrica de Software (antiga Oficina de Integração 1 e 2)
+
+# Squad Bem Loko
 Max - back
 Viega - Back
 Ibanez - Full
