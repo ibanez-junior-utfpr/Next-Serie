@@ -14,5 +14,5 @@ Projeto da Fábrica de Software (antiga Oficina de Integração 1 e 2)
 
 ## Miro
 
-[https://miro.com/app/board/uXjVPVbNGVg=/]
+https://miro.com/app/board/uXjVPVbNGVg=/
 
