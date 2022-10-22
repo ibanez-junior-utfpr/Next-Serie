@@ -11,3 +11,8 @@ Projeto da Fábrica de Software (antiga Oficina de Integração 1 e 2)
 * Pedro H - Front
 * Estevão - Ux
 * Eduardo Borsa - QA
+
+## Miro
+
+[https://miro.com/app/board/uXjVPVbNGVg=/]
+
