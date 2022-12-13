@@ -16,7 +16,7 @@ const CardFilm: React.FC<Props> = function CardFilm(Props) {
         <Image className='rounded-lg'
           alt={`Capa do filme ${Props.nome}`}
           src={CapaFilme}
-          width={130}
+          width={160}
         />
       </Link>
     </div>

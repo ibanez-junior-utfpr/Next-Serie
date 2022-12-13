@@ -10,7 +10,7 @@ const InputUser: React.FC<Props> = Props => {
     <div>
       <input
         type={Props.tipo}
-        className="bg-gray-50 border-gray-50 text-sm rounded-lg block w-full p-2.5"
+        className="bg-gray-50 border-gray-50 rounded-lg block w-full p-1 text-center text-xl"
         placeholder={Props.placeHolder}
       />
     </div>
